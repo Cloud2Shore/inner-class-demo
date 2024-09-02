@@ -1,3 +1,5 @@
+package innerclass;
+
 class CPU {
     double price;
 

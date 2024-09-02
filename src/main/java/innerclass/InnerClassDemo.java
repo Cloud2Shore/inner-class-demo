@@ -1,3 +1,5 @@
+package innerclass;
+
 class Animal {
     class Dog {
         private String name="TEST";
